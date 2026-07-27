@@ -46,11 +46,3 @@ The complete Virtual Horizon platform is split into the following main component
 6. **`AssetBundle-BackgroundService/` & `VideoUploader-BackgroundService/`**
    * Background workers managing high-throughput assets packaging and session recordings processing.
 
----
-
-## ⚙️ Development Setup
-
-Refer to individual directories for detailed configuration steps:
-* For local AI configuration and WebSocket setup, see the [rag-system README](https://github.com/virtual-horizon-team/demo-repository/tree/main/rag-system/README.md).
-* For Next.js client setups, see [front-end README](https://github.com/virtual-horizon-team/demo-repository/tree/main/front-end/README.md).
-* For VR client setup and deployment, see the [VR App setup guides](https://github.com/virtual-horizon-team/demo-repository/tree/main/rag-system/VR_ARCHITECTURE.md).
